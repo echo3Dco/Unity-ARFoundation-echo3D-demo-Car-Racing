@@ -5,8 +5,8 @@ An AR Car Racing AR app demo build with echoAR
 If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
 
 ## Setup
-* [Add the 3D model](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the [models](/models) folder to the console.
-* [Add the metadata](https://docs.echoar.xyz/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) found in the [metadata](/metadata) folder.
+* [Add the 3D model](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the [models](https://github.com/echoARxyz/Car-Racing-Demo-echoAR/tree/master/Models) folder to the console.
+* [Add the metadata](https://docs.echoar.xyz/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) found in the [metadata](https://github.com/echoARxyz/Car-Racing-Demo-echoAR/tree/master/metadata) folder.
 
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).

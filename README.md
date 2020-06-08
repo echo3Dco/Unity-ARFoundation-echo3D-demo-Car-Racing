@@ -1,4 +1,4 @@
-# Car Racing Demo - echoAR
+# Unity-ARFoundation-echoAR-demo-Car-Racing
 An AR Car Racing AR app demo build with echoAR
 
 ## Register
@@ -21,7 +21,7 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
-<img src="/Screenshots/console.png">
-<img src="/Screenshots/metadata.png">
 <img src="/Screenshots/demo1.jpg" width="450">
 <img src="/Screenshots/demo2.jpg" width="450">
+<img src="/Screenshots/console.png">
+<img src="/Screenshots/metadata.png">
